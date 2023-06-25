@@ -1,0 +1,6 @@
+/PyFFS/build
+/FastFileSearch/*.user
+*.pyd
+*.dll
+*.exe
+/.vscode
